@@ -83,7 +83,7 @@ http://localhost:8888
 1. 克隆仓库
 
 ```bash
-git clone https://github.com/fish2018/pansou.git
+git clone https://github.com/iuuissvip-source/pansou.git
 cd pansou
 ```
 
